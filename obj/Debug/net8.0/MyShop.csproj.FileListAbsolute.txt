@@ -25,3 +25,7 @@ C:\Users\herma\Documents\Webapplikasjoner\MyShop\obj\Debug\net8.0\MyShop.genrunt
 C:\Users\herma\Documents\Webapplikasjoner\MyShop\obj\Debug\net8.0\ref\MyShop.dll
 C:\Users\herma\Documents\Webapplikasjoner\MyShop\obj\Debug\net8.0\MyShop.RazorAssemblyInfo.cache
 C:\Users\herma\Documents\Webapplikasjoner\MyShop\obj\Debug\net8.0\MyShop.RazorAssemblyInfo.cs
+C:\Users\herma\Documents\Webapplikasjoner\MyShop\obj\Debug\net8.0\MyShop.sourcelink.json
+C:\Users\herma\Documents\Webapplikasjoner\MyShop\bin\Debug\net8.0\MyShop.staticwebassets.runtime.json
+C:\Users\herma\Documents\Webapplikasjoner\MyShop\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\herma\Documents\Webapplikasjoner\MyShop\obj\Debug\net8.0\scopedcss\projectbundle\MyShop.bundle.scp.css
