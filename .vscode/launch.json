@@ -16,7 +16,7 @@
             "serverReadyAction": {
                 "action": "openExternally",
                 "pattern": "\\bNow listening on:\\s+(http?://\\S+)",
-                "uriFormat": "%s"
+                "uriFormat": "%s/item/table"
             },
             "env": {
                 "ASPNETCORE_ENVIRONMENT": "Development"
