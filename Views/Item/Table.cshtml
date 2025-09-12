@@ -1,0 +1,31 @@
+@model IEnumerable<MyShop.Models.Item>
+
+<!Doctype html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=devide-width" />
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
+    <title>My Shop</title>
+
+</head>
+<body>
+    <div class="container">
+        <h1>@ViewBag.CurrentViewName</h1>
+        <table class='table table-striped'>
+            <tr><th>ID</th><th>Name</th><th>Price</th><th>Description</th></tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.ItemId</td>
+                    <td>@item.Name</td>
+                    <td>@item.Price.ToString("0.00 NOK")</td>
+                    <td></td>
+                </tr>
+                
+            }
+        </table>
+    </div>
+
+</body>
+</html>
