@@ -5,6 +5,46 @@
       "PackagePath": "staticwebassets\\MyShop.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\herma\\Documents\\Webapplikasjoner\\MyShop\\wwwroot\\images\\chickenleg.jpg",
+      "PackagePath": "staticwebassets\\images\\chickenleg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\herma\\Documents\\Webapplikasjoner\\MyShop\\wwwroot\\images\\cider.jpg",
+      "PackagePath": "staticwebassets\\images\\cider.jpg"
+    },
+    {
+      "Id": "C:\\Users\\herma\\Documents\\Webapplikasjoner\\MyShop\\wwwroot\\images\\coke.jpg",
+      "PackagePath": "staticwebassets\\images\\coke.jpg"
+    },
+    {
+      "Id": "C:\\Users\\herma\\Documents\\Webapplikasjoner\\MyShop\\wwwroot\\images\\fish and chips.jpg",
+      "PackagePath": "staticwebassets\\images\\fish and chips.jpg"
+    },
+    {
+      "Id": "C:\\Users\\herma\\Documents\\Webapplikasjoner\\MyShop\\wwwroot\\images\\fishandchips.JPG",
+      "PackagePath": "staticwebassets\\images\\fishandchips.JPG"
+    },
+    {
+      "Id": "C:\\Users\\herma\\Documents\\Webapplikasjoner\\MyShop\\wwwroot\\images\\pizza.jpg",
+      "PackagePath": "staticwebassets\\images\\pizza.jpg"
+    },
+    {
+      "Id": "C:\\Users\\herma\\Documents\\Webapplikasjoner\\MyShop\\wwwroot\\images\\ribs.jpg",
+      "PackagePath": "staticwebassets\\images\\ribs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\herma\\Documents\\Webapplikasjoner\\MyShop\\wwwroot\\images\\tacos.jpg",
+      "PackagePath": "staticwebassets\\images\\tacos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\herma\\Documents\\Webapplikasjoner\\MyShop\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\herma\\Documents\\Webapplikasjoner\\MyShop\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyShop.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

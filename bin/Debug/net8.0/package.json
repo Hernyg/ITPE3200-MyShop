@@ -1,0 +1,24 @@
+{
+  "name": "myshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hernyg/MyShop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hernyg/MyShop/issues"
+  },
+  "homepage": "https://github.com/Hernyg/MyShop#readme",
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "jquery": "^3.7.1"
+  }
+}
