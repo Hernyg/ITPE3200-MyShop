@@ -25,6 +25,10 @@
       "PackagePath": "staticwebassets\\images\\fishandchips.JPG"
     },
     {
+      "Id": "C:\\Users\\herma\\Documents\\Webapplikasjoner\\MyShop\\wwwroot\\images\\fries.jpg",
+      "PackagePath": "staticwebassets\\images\\fries.jpg"
+    },
+    {
       "Id": "C:\\Users\\herma\\Documents\\Webapplikasjoner\\MyShop\\wwwroot\\images\\pizza.jpg",
       "PackagePath": "staticwebassets\\images\\pizza.jpg"
     },
