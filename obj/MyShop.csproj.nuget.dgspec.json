@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\herma\\Documents\\Webapplikasjoner\\MyShop\\MyShop.csproj": {}
+    "C:\\Users\\herma\\Documents\\Webapplikasjoner\\ITPE3200-MyShop\\MyShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\herma\\Documents\\Webapplikasjoner\\MyShop\\MyShop.csproj": {
+    "C:\\Users\\herma\\Documents\\Webapplikasjoner\\ITPE3200-MyShop\\MyShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\herma\\Documents\\Webapplikasjoner\\MyShop\\MyShop.csproj",
+        "projectUniqueName": "C:\\Users\\herma\\Documents\\Webapplikasjoner\\ITPE3200-MyShop\\MyShop.csproj",
         "projectName": "MyShop",
-        "projectPath": "C:\\Users\\herma\\Documents\\Webapplikasjoner\\MyShop\\MyShop.csproj",
+        "projectPath": "C:\\Users\\herma\\Documents\\Webapplikasjoner\\ITPE3200-MyShop\\MyShop.csproj",
         "packagesPath": "C:\\Users\\herma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\herma\\Documents\\Webapplikasjoner\\MyShop\\obj\\",
+        "outputPath": "C:\\Users\\herma\\Documents\\Webapplikasjoner\\ITPE3200-MyShop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\herma\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -43,6 +43,16 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[8.*, )"
+            },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[8.0.7, )"
