@@ -86,7 +86,13 @@ C:\Users\herma\Documents\Webapplikasjoner\ITPE3200-MyShop\bin\Debug\net8.0\Micro
 C:\Users\herma\Documents\Webapplikasjoner\ITPE3200-MyShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
 C:\Users\herma\Documents\Webapplikasjoner\ITPE3200-MyShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\herma\Documents\Webapplikasjoner\ITPE3200-MyShop\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\herma\Documents\Webapplikasjoner\ITPE3200-MyShop\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\herma\Documents\Webapplikasjoner\ITPE3200-MyShop\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\herma\Documents\Webapplikasjoner\ITPE3200-MyShop\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\herma\Documents\Webapplikasjoner\ITPE3200-MyShop\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\herma\Documents\Webapplikasjoner\ITPE3200-MyShop\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\herma\Documents\Webapplikasjoner\ITPE3200-MyShop\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\herma\Documents\Webapplikasjoner\ITPE3200-MyShop\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 C:\Users\herma\Documents\Webapplikasjoner\ITPE3200-MyShop\bin\Debug\net8.0\Mono.TextTemplating.dll
 C:\Users\herma\Documents\Webapplikasjoner\ITPE3200-MyShop\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
 C:\Users\herma\Documents\Webapplikasjoner\ITPE3200-MyShop\bin\Debug\net8.0\SQLitePCLRaw.core.dll
@@ -194,9 +200,3 @@ C:\Users\herma\Documents\Webapplikasjoner\ITPE3200-MyShop\obj\Debug\net8.0\refin
 C:\Users\herma\Documents\Webapplikasjoner\ITPE3200-MyShop\obj\Debug\net8.0\MyShop.pdb
 C:\Users\herma\Documents\Webapplikasjoner\ITPE3200-MyShop\obj\Debug\net8.0\MyShop.genruntimeconfig.cache
 C:\Users\herma\Documents\Webapplikasjoner\ITPE3200-MyShop\obj\Debug\net8.0\ref\MyShop.dll
-C:\Users\herma\Documents\Webapplikasjoner\ITPE3200-MyShop\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\herma\Documents\Webapplikasjoner\ITPE3200-MyShop\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\herma\Documents\Webapplikasjoner\ITPE3200-MyShop\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\herma\Documents\Webapplikasjoner\ITPE3200-MyShop\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
-C:\Users\herma\Documents\Webapplikasjoner\ITPE3200-MyShop\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\herma\Documents\Webapplikasjoner\ITPE3200-MyShop\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
